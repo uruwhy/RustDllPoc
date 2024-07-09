@@ -11,3 +11,7 @@ cargo build
 # release
 cargo build --release
 ```
+
+## References
+- [Creating A DLL With Rust](https://samrambles.com/guides/window-hacking-with-rust/creating-a-dll-with-rust/index.html)
+- [DllMain entry point](https://learn.microsoft.com/en-us/windows/win32/dlls/dllmain)
